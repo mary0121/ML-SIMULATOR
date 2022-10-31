@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Folder>
+<name>Aloha Threat Zones</name>
+ <Placemark>
+  <name>Red Threat Zone 10.0 kW/(sq m) = potentially lethal within 60 sec</name>
+  <ExtendedData><Data name="MarplotID"><value>AAAAAAAAAAAAAA03</value></Data></ExtendedData>
+  <description><![CDATA[<b>Time:</b> August 6, 2022  2147 hours ST<br><b>Chemical Name:</b> METHANOL<br><b>Wind:</b> 7 meters/second from ENE at 3 meters<br><small><br></small><b>THREAT ZONE:</b><br><span style="background-color: rgb(255, 0, 0);">&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;Red   : 36 meters --- (10.0 kW/(sq m) = potentially lethal within 60 sec)<br><span style="background-color: rgb(255, 153, 0);">&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;Orange: 43 meters --- (5.0 kW/(sq m) = 2nd degree burns within 60 sec)<br><span style="background-color: rgb(255, 255, 0);">&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;Yellow: 55 meters --- (2.0 kW/(sq m) = pain within 60 sec)<br><br><br>Model: ALOHA Thermal radiation from pool fire<br>]]></description>
+  <drawOrder>3</drawOrder><Polygon><gx:drawOrder>3</gx:drawOrder><outerBoundaryIs><LinearRing><coordinates>-74.816491,11.033404 -74.816499,11.033422 -74.816507,11.033438 -74.816518,11.033453 -74.816531,11.033467 -74.816543,11.033481 -74.816557,11.033495 -74.816572,11.033507 -74.816589,11.033518 -74.816605,11.033531 -74.816624,11.033544 -74.816645,11.033555 -74.816667,11.033563 -74.816691,11.033571 -74.816715,11.033576 -74.816743,11.033578 -74.816770,11.033578 -74.816797,11.033573 -74.816824,11.033565 -74.816851,11.033554 -74.816877,11.033540 -74.816900,11.033521 -74.816921,11.033500 -74.816940,11.033477 -74.816958,11.033451 -74.816971,11.033424 -74.816981,11.033395 -74.816989,11.033365 -74.816992,11.033333 -74.816992,11.033302 -74.816990,11.033270 -74.816982,11.033240 -74.816973,11.033209 -74.816958,11.033180 -74.816940,11.033154 -74.816920,11.033130 -74.816897,11.033107 -74.816871,11.033088 -74.816845,11.033071 -74.816816,11.033058 -74.816787,11.033048 -74.816757,11.033042 -74.816726,11.033039 -74.816696,11.033039 -74.816667,11.033042 -74.816638,11.033050 -74.816612,11.033060 -74.816587,11.033073 -74.816563,11.033088 -74.816544,11.033107 -74.816526,11.033128 -74.816513,11.033149 -74.816502,11.033171 -74.816491,11.033192 -74.816485,11.033214 -74.816480,11.033235 -74.816479,11.033257 -74.816474,11.033276 -74.816472,11.033296 -74.816472,11.033314 -74.816474,11.033333 -74.816476,11.033352 -74.816479,11.033370 -74.816484,11.033387 -74.816491,11.033404 </coordinates></LinearRing></outerBoundaryIs></Polygon>
+  <Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle>  <PolyStyle><fill>1</fill><color>550000ff</color></PolyStyle></Style>
+ </Placemark>
+</Folder>
+<Folder>
+<name>Aloha Points</name>
+    <Placemark>
+        <name>ALOHA Source Point</name>
+        <ExtendedData><Data name="MarplotID"><value>AAAAAAAAAAAAAA01</value></Data></ExtendedData>
+        <description><![CDATA[<b>Time:</b> August 6, 2022  2127 hours ST<br><b>Chemical Name:</b> METHANOL<br><b>Wind:</b> 7 meters/second from NNE at 3 meters<br><small><br></small><b>THREAT ZONE:</b><br><span style="background-color: rgb(255, 0, 0);">&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;Red   : 81 meters --- (10.0 kW/(sq m) = potentially lethal within 60 sec)<br><span style="background-color: rgb(255, 153, 0);">&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;Orange: 96 meters --- (5.0 kW/(sq m) = 2nd degree burns within 60 sec)<br><span style="background-color: rgb(255, 255, 0);">&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;Yellow: 125 meters --- (2.0 kW/(sq m) = pain within 60 sec)<br><br><br>Model: ALOHA Thermal radiation from pool fire<br>]]></description>
+        <Point><coordinates>-74.49,11.02</coordinates></Point>
+    </Placemark>
+</Folder>
+</Document>
+</kml>
